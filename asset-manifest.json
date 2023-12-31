@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/swipe-invoice-management-v2/static/css/main.c45ffed0.css",
-    "main.js": "/swipe-invoice-management-v2/static/js/main.31f360c3.js",
-    "static/js/703.6f79e622.chunk.js": "/swipe-invoice-management-v2/static/js/703.6f79e622.chunk.js",
-    "static/js/198.3fe4336c.chunk.js": "/swipe-invoice-management-v2/static/js/198.3fe4336c.chunk.js",
-    "static/js/787.ce07382d.chunk.js": "/swipe-invoice-management-v2/static/js/787.ce07382d.chunk.js",
-    "index.html": "/swipe-invoice-management-v2/index.html",
-    "main.c45ffed0.css.map": "/swipe-invoice-management-v2/static/css/main.c45ffed0.css.map",
-    "main.31f360c3.js.map": "/swipe-invoice-management-v2/static/js/main.31f360c3.js.map",
-    "703.6f79e622.chunk.js.map": "/swipe-invoice-management-v2/static/js/703.6f79e622.chunk.js.map",
-    "198.3fe4336c.chunk.js.map": "/swipe-invoice-management-v2/static/js/198.3fe4336c.chunk.js.map",
-    "787.ce07382d.chunk.js.map": "/swipe-invoice-management-v2/static/js/787.ce07382d.chunk.js.map"
+    "main.css": "/static/css/main.c45ffed0.css",
+    "main.js": "/static/js/main.359fa7dc.js",
+    "static/js/703.6f79e622.chunk.js": "/static/js/703.6f79e622.chunk.js",
+    "static/js/198.3fe4336c.chunk.js": "/static/js/198.3fe4336c.chunk.js",
+    "static/js/787.ce07382d.chunk.js": "/static/js/787.ce07382d.chunk.js",
+    "index.html": "/index.html",
+    "main.c45ffed0.css.map": "/static/css/main.c45ffed0.css.map",
+    "main.359fa7dc.js.map": "/static/js/main.359fa7dc.js.map",
+    "703.6f79e622.chunk.js.map": "/static/js/703.6f79e622.chunk.js.map",
+    "198.3fe4336c.chunk.js.map": "/static/js/198.3fe4336c.chunk.js.map",
+    "787.ce07382d.chunk.js.map": "/static/js/787.ce07382d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c45ffed0.css",
-    "static/js/main.31f360c3.js"
+    "static/js/main.359fa7dc.js"
   ]
 }
